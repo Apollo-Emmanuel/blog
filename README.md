@@ -2,12 +2,12 @@
 React API Project Using Hooks, Axios and Firebase
 
 
-### Created & Maintained By
-
-[Ewaru Emmanuel](https://github.com/ewaru-emmanuel) 
 ![Screen Shot 2024-04-16 at 17 20 14](https://github.com/ewaru-emmanuel/blog/assets/118895035/150ceb64-a649-47b1-92aa-2f7a44be6775)
 ![Screen Shot 2024-04-16 at 17 19 54](https://github.com/ewaru-emmanuel/blog/assets/118895035/4f78e47d-1eb4-4093-9943-ba9dcaea6ad1)
 
+### Created & Maintained By
+
+[Ewaru Emmanuel](https://github.com/ewaru-emmanuel) 
 
 
 ## Available Scripts
